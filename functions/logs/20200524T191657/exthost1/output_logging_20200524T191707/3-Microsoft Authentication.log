@@ -1,0 +1,2 @@
+[Error  - 13:17:12.8] Migrating token failed: Error: Unknown or unsupported transport “disabled” for address “disabled:”
+[Error  - 13:17:12.15] Getting token failed: Error: Unknown or unsupported transport “disabled” for address “disabled:”
